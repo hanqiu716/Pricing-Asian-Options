@@ -15,3 +15,6 @@ analysis (PCA) and Kronecker product approximation (KPA) and they are applied
 for both constant and time-dependent volatilities. Finally, we conduct numerical
 experiments and compare the precision and computational time between Quasi-Monte
 Carlo and Monte Carlo methods.
+
+
+PS. The instruction of running the codes could be found in codes.pdf
